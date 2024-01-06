@@ -1,0 +1,12 @@
+{
+  "name": "game_of_life",
+  "version": "1.0.0",
+  "main": "src/main.rs",
+  "repository": "git@github.com:shawakash/game_of_life.git",
+  "author": "Akash Shaw <shawakash2003@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "cargo run --release",
+    "build": "cargo build --release"
+  }
+}
